@@ -1,0 +1,5 @@
+// 1.19.2	2023-05-22T20:52:23.0717089	Registrate Provider for createskybound [Recipes, Advancements, Loot tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), Blockstates, Item models, Lang (en_us/en_ud)]
+f26dc45ca7a9e4acbbfb43ec1b65b5863d4d3ddc assets/createskybound/lang/en_ud.json
+742470d2ab35d5565c5d749b07c2c1339786415e assets/createskybound/lang/en_us.json
+a884074ab8f31039ca0c66ff6f8b8584fc4d2e9d assets/createskybound/models/item/ash.json
+c354dd0571fa9df121cadf41a474bc4b689485ca data/create/tags/items/upright_on_belt.json

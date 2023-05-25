@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "createskybound:ash"
+    },
+    {
+      "item": "createskybound:ash"
+    },
+    {
+      "item": "createskybound:ash"
+    },
+    {
+      "item": "createskybound:ash"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:tuff"
+    }
+  ]
+}
