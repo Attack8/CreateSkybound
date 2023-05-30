@@ -1,0 +1,15 @@
+{
+  "name": "createskybound:purge/overworld_top_layer",
+  "fallback": "createskybound:purge/overworld_top_layer",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "createskybound:purge_top_layer",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
