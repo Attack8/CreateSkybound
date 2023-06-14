@@ -26,6 +26,7 @@ public class ModRecipeProvider extends RecipeProviderHelper implements IConditio
         shapedRecipe(ModItems.ASH.get(), "AA -AA -   ", recipeConsumer, List.of(Items.DRIED_KELP),
                 "has_dried_kelp", inventoryTrigger(ItemPredicate.Builder.item().of(Items.DRIED_KELP.asItem()).build()));
 
+
          */
 
         SimpleCookingRecipeBuilder.blasting(Ingredient.of(ModTags.BURNABLES),
