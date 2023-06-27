@@ -2,6 +2,7 @@ package com.attackeight.createskybound;
 
 import com.attackeight.createskybound.CreateSkybound;
 import com.google.common.collect.ImmutableSet;
+import com.tterrag.registrate.util.entry.EntityEntry;
 import net.minecraft.client.tutorial.Tutorial;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.world.entity.ai.village.poi.PoiType;
@@ -14,6 +15,8 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 
 import java.lang.reflect.InvocationTargetException;
+
+import static com.attackeight.createskybound.CreateSkybound.REGISTRATE;
 
 public class ModVillagers {
     public static final DeferredRegister<PoiType> POI_TYPES =

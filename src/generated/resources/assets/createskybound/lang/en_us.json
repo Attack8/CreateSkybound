@@ -1,5 +1,5 @@
 {
   "item.createskybound.ash": "Ash",
-  "itemGroup.createskybound.createskybound": "Create: Skybound",
-  "entity.minecraft.villager.createskybound.wandering_enchanter": "Wandering Enchanter"
+  "item.createskybound.tp_arrow": "Tp Arrow",
+  "itemGroup.createskybound.createskybound": "Create: Skybound"
 }

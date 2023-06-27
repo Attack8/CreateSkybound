@@ -1,6 +1,5 @@
 package com.attackeight.createskybound;
 
-//import com.simibubi.create.AllBlocks;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 

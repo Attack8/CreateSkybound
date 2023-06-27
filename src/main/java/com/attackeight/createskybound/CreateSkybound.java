@@ -37,6 +37,7 @@ public class CreateSkybound {
         modEventBus.addListener(this::commonSetup);
         ModItems.register();
         ModVillagers.register(modEventBus);
+        ModEntities.register(modEventBus);
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);

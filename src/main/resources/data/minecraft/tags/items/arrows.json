@@ -1,6 +1,6 @@
 {
+  "replace": false,
   "values": [
-    "createskybound:ash",
     "createskybound:tp_arrow"
   ]
 }
