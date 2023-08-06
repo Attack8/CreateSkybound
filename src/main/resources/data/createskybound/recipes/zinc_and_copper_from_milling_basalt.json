@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:basalt"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:copper_nugget",
+      "chance": 0.5
+    },
+    {
+      "item": "create:zinc_nugget",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 50
+}
